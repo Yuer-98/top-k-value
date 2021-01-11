@@ -1,5 +1,6 @@
 import java.util.*;
 
+/**这是使用排序的方法获取topK*/
 class TopKSort {
     List<Integer> list;
     public TopKSort(){
